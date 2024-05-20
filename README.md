@@ -1,9 +1,30 @@
-# TheMet
+# QuizMe Met
 An android application that communicates with third-party APIs and generates a quiz based on museum artifacts.
 
 ### Description
-This app displays a list of departments with images from the Met Museum and asks the user to select one department to be quizzed on. Once the user has selected the department, the application loads the quiz questions. The user has 5 quiz questions to answer. After the quiz is complete the user can see their score and navigate back to the home page to select a different department and start a new quiz round. At any point in the quiz, the user can
-navigate back to the home page by clicking the “Home” button.
+**Overview:**
+QuizMe Met is an engaging and educational Android quiz application designed for art enthusiasts and museum-goers alike. Leveraging the rich collection of the Metropolitan Museum of Art (Met Museum), this app provides users with an interactive way to test and expand their knowledge about various art departments.
+
+**Key Features:**
+- **Department Selection:**
+    - Upon launching the app, users are presented with a list of departments from the Met Museum, each accompanied by a representative image.
+    - Users select a department to be quizzed on, diving into specific areas such as Ancient Art, European Paintings, Modern Art, and more.
+- **Quiz Gameplay:**
+    - Each quiz consists of 5 carefully curated questions related to the selected department.
+    - Questions range from identifying artworks and artists to historical facts and stylistic details.
+    - An interactive multiple-choice format ensures an engaging user experience.
+- **Scoring and Feedback:**
+    - Upon completing the quiz, users receive their score along with feedback on their performance.
+    - Detailed explanations for each answer are provided to enhance learning and retention.
+- **User Navigation:**
+    - Users can easily navigate back to the home page at any point during the quiz by clicking the “Home” button.
+    - From the home page, users can select a different department and start a new quiz round, allowing for endless learning opportunities.
+
+**Educational Value:**
+QuizMe Met serves as an excellent tool for both casual learners and serious art students, providing a fun and interactive way to explore and understand the vast collection of the Met Museum.
+
+**Usability:**
+The app's intuitive design ensures a smooth user experience, with easy navigation and clear instructions, making it accessible for users of all ages.
 
 # Application Workflow
 Page 1: Splash Screen <br>
